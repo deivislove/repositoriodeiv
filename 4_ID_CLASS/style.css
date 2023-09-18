@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet;
+    font-size: 50px;
+}
+
+.textos-id {
+   color:darkviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.altura-linha {
+    line-height: 36px;
+}
